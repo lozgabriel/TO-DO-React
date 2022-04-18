@@ -1,0 +1,30 @@
+.tarefa-container {
+    display: flex;
+    background-color: #444;
+    margin: 8px 0;
+    padding: 15px 20px;
+    border-radius: 5px;
+    justify-content: space-between;
+    color: #eee;
+    align-items: center;
+}
+
+.tarefa-titulo{
+    cursor: pointer;
+}
+
+.ver-tarefa {
+    background-color: #444;
+    border: none;
+    font-size: 1.2rem;
+    color: #fff;
+    cursor: pointer;
+}
+
+.remover-tarefa-botao {
+    background-color: #444;
+    border: none;
+    font-size: 1.2rem;
+    color: #fff;
+    cursor: pointer;
+}

@@ -1,0 +1,15 @@
+.tarefa-detalhes {
+    padding: 15px;
+    background-color: #444;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.tarefa-detalhes h2 {
+    margin: 0;
+}
+
+.btn-voltar {
+    margin: 10px 0;
+    width: 30%;
+}
